@@ -47,8 +47,8 @@
     <Compile Include="Classes\Factory.cs" />
     <Compile Include="Classes\Interface.cs" />
     <Compile Include="Classes\otelRoomVip.cs" />
-    <Compile Include="Classes\miejscastandard.cs" />
     <Compile Include="Classes\Choice.cs" />
+    <Compile Include="Classes\otelRoomNormal.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

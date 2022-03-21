@@ -13,5 +13,5 @@ namespace FactoryMethodPattern.Classes
             Console.WriteLine("Normal Room" + number_people + "-people. \n Will be kitchen? " + kitchen + " \n Will be jacuzzi ?" + jacuzzi + " \nPrice: " + price);
 
         }
-}
+    }
 }
