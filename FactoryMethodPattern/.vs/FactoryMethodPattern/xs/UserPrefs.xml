@@ -1,25 +1,24 @@
 ﻿<Properties StartupConfiguration="{05EE6563-0DB1-4BED-9D20-C9837C38D827}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethodPattern/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethodPattern/Classes/otelRoomVip.cs">
     <Files>
-      <File FileName="../../../../Downloads/Eventim-main/FactoryMethodPattern/FactoryMethodPattern/App.config" Line="1" Column="1" />
-      <File FileName="../../../../Downloads/Eventim-main/FactoryMethodPattern/FactoryMethodPattern/Program.cs" Line="25" Column="1" />
-      <File FileName="../../../../Downloads/Eventim-main/FactoryMethodPattern/FactoryMethodPattern/Classes/wybor.cs" Line="14" Column="14" />
-      <File FileName="FactoryMethodPattern/Classes/factory.cs" Line="1" Column="1" />
+      <File FileName="FactoryMethodPattern/Classes/wybor.cs" Line="9" Column="26" />
+      <File FileName="../../../../Desktop/Classes/Choice.cs" Line="24" Column="2" />
+      <File FileName="../../../../Desktop/Classes/otelRoomNormal.cs" Line="19" Column="1" />
+      <File FileName="FactoryMethodPattern/Program.cs" Line="21" Column="1" />
+      <File FileName="FactoryMethodPattern/Classes/miejscastandard.cs" Line="9" Column="34" />
+      <File FileName="FactoryMethodPattern/Classes/Factory.cs" Line="1" Column="1" />
       <File FileName="FactoryMethodPattern/Classes/Interface.cs" Line="1" Column="1" />
-      <File FileName="FactoryMethodPattern/Program.cs" Line="20" Column="18" />
+      <File FileName="FactoryMethodPattern/Classes/otelRoomVip.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+          <Node />
           <Node name="FactoryMethodPattern" expanded="True">
             <Node name="FactoryMethodPattern" expanded="True">
-              <Node name="Classes" expanded="True" />
-            </Node>
-          </Node>
-          <Node name="FactoryMethodPattern" expanded="True">
-            <Node name="FactoryMethodPattern" expanded="True">
-              <Node name="Classes" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="Classes" expanded="True">
+                <Node name="otelRoomNormal.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

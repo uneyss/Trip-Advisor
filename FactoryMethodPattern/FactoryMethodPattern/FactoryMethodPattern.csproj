@@ -44,11 +44,11 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Classes\factory.cs" />
+    <Compile Include="Classes\Factory.cs" />
     <Compile Include="Classes\Interface.cs" />
-    <Compile Include="Classes\miejscapremium.cs" />
+    <Compile Include="Classes\otelRoomVip.cs" />
     <Compile Include="Classes\miejscastandard.cs" />
-    <Compile Include="Classes\wybor.cs" />
+    <Compile Include="Classes\Choice.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

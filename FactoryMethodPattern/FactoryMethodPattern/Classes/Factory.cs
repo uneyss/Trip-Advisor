@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace FactoryMethodPattern.Classes
 {
-    abstract class factory
+    abstract class Factory
     {
-        public abstract Interface GetMiejsca(String Miejsca);
+        public abstract Interface GetRoom(String Room);
 
     }
 }

@@ -11,12 +11,14 @@ namespace FactoryMethodPattern
     {
         static void Main(string[] args)
         {
-            factory hotel = new wybor();
+            Factory otel = new Choice();
 
-            Interface pokojstandard = hotel.GetMiejsca("miejscastandard");
-            pokojstandard.Rozpiska(10000000, 3);
-            Interface pokojpremium = hotel.GetMiejsca("miejscapremium");
-            pokojpremium.Rozpiska(200, 2);
+            Interface otelRoomNormal = otel.GetRoom("otelRoomNormal");
+            otelRoomNormal.description(100,10,"no","yes");
+
+            Interface otelRoomVip = otel.GetRoom("otelRoomVip");
+            otelRoomVip.description(100, 10, "yes", "yes");
+
             Console.ReadKey();
 
         }
