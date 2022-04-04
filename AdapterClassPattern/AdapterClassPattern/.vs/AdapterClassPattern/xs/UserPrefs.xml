@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F25349E2-6BA0-4FC6-92FF-337547A64C08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classes/XmlConverter.cs">
+    <Files>
+      <File FileName="Classes/XmlConverter.cs" Line="16" Column="54" />
+      <File FileName="Program.cs" Line="18" Column="10" />
+      <File FileName="Classes/XmlToJsonAdapter.cs" Line="1" Column="1" />
+      <File FileName="Classes/TripAdvisor.cs" Line="1" Column="1" />
+      <File FileName="Classes/TripAdvisorData.cs" Line="9" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdapterClassPattern" expanded="True">
+            <Node name="AdapterClassPattern" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="XmlConverter.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AdapterClassPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
