@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{57EB67D4-1FFF-4208-9D37-AF2C85A27485}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacadePattern/Program.cs">
+    <Files>
+      <File FileName="FacadePattern/Program.cs" Line="16" Column="1" />
+      <File FileName="FacadePattern/Classes/ReservationFacade.cs" Line="55" Column="1" />
+      <File FileName="../../../../Downloads/ProjektowanieSystemowInformatycznych-main/facadehotel/facadehotel/klasy/Imie.cs" Line="1" Column="1" />
+      <File FileName="FacadePattern/Classes/ReservationAdres.cs" Line="11" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FacadePattern" expanded="True">
+            <Node name="FacadePattern" expanded="True">
+              <Node name="Classes" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FacadePattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
