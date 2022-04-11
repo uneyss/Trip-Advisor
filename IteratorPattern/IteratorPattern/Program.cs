@@ -11,7 +11,7 @@ namespace IteratorPattern
     {
         static void Main()
         {
-            // Build a collection
+
             ConcreteCollection collection = new ConcreteCollection();
             collection.AddHotels(new Hotels("Hotel Warszawa", 100, 5));
             collection.AddHotels(new Hotels("Centrum Hotel", 101,5));
@@ -20,9 +20,9 @@ namespace IteratorPattern
             collection.AddHotels(new Hotels("Example Hotel 3", 104,2));
             collection.AddHotels(new Hotels("Example Hotel 4", 105,5));
 
-            // Create iterator
+
             Iterator iterator = collection.CreateIterator();
-            //looping iterator      
+   
             Console.WriteLine("Iterating over collection:");
 
             for (Hotels hotel = iterator.First(); !iterator.IsCompleted; hotel = iterator.Next())
