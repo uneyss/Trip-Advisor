@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{7C7EF958-4E43-4D62-975B-E139190577C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TemplateProjekt/Klasy/OtelPoznan.cs">
+    <Files>
+      <File FileName="TemplateProjekt/Program.cs" Line="35" Column="26" />
+      <File FileName="TemplateProjekt/Klasy/OtelWarsaw.cs" Line="10" Column="42" />
+      <File FileName="TemplateProjekt/Klasy/OtelLodz.cs" Line="10" Column="40" />
+      <File FileName="TemplateProjekt/Klasy/OtelKrakow.cs" Line="10" Column="42" />
+      <File FileName="TemplateProjekt/Klasy/GlownaKlasa.cs" Line="9" Column="29" />
+      <File FileName="TemplateProjekt/Klasy/OtelPoznan.cs" Line="27" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemplateProjekt" expanded="True">
+            <Node name="TemplateProjekt" expanded="True">
+              <Node name="Klasy" expanded="True">
+                <Node name="OtelPoznan.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TemplateProjekt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

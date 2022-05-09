@@ -1,0 +1,15 @@
+C:/Users/kalin/source/repos/TemplateProjekt/TemplateProjekt/obj/Debug/TemplateProjekt.csproj.AssemblyReference.cache
+C:/Users/kalin/source/repos/TemplateProjekt/TemplateProjekt/obj/Debug/TemplateProjekt.csproj.SuggestedBindingRedirects.cache
+C:/Users/kalin/source/repos/TemplateProjekt/TemplateProjekt/obj/Debug/TemplateProjekt.csproj.CoreCompileInputs.cache
+C:/Users/kalin/source/repos/TemplateProjekt/TemplateProjekt/bin/Debug/TemplateProjekt.exe.config
+C:/Users/kalin/source/repos/TemplateProjekt/TemplateProjekt/bin/Debug/TemplateProjekt.exe
+C:/Users/kalin/source/repos/TemplateProjekt/TemplateProjekt/bin/Debug/TemplateProjekt.pdb
+C:/Users/kalin/source/repos/TemplateProjekt/TemplateProjekt/obj/Debug/TemplateProjekt.exe
+C:/Users/kalin/source/repos/TemplateProjekt/TemplateProjekt/obj/Debug/TemplateProjekt.pdb
+/Users/uneysalkis/Downloads/Projekt1-Wypozyczalnia-main/projekt3/TemplateProjekt/TemplateProjekt/bin/Debug/TemplateProjekt.exe.config
+/Users/uneysalkis/Downloads/Projekt1-Wypozyczalnia-main/projekt3/TemplateProjekt/TemplateProjekt/bin/Debug/TemplateProjekt.exe
+/Users/uneysalkis/Downloads/Projekt1-Wypozyczalnia-main/projekt3/TemplateProjekt/TemplateProjekt/bin/Debug/TemplateProjekt.pdb
+/Users/uneysalkis/Downloads/Projekt1-Wypozyczalnia-main/projekt3/TemplateProjekt/TemplateProjekt/obj/Debug/TemplateProjekt.csproj.AssemblyReference.cache
+/Users/uneysalkis/Downloads/Projekt1-Wypozyczalnia-main/projekt3/TemplateProjekt/TemplateProjekt/obj/Debug/TemplateProjekt.csproj.CoreCompileInputs.cache
+/Users/uneysalkis/Downloads/Projekt1-Wypozyczalnia-main/projekt3/TemplateProjekt/TemplateProjekt/obj/Debug/TemplateProjekt.exe
+/Users/uneysalkis/Downloads/Projekt1-Wypozyczalnia-main/projekt3/TemplateProjekt/TemplateProjekt/obj/Debug/TemplateProjekt.pdb
