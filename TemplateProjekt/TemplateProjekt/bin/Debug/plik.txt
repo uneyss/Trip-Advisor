@@ -1,1 +1,0 @@
-Różowy Fiat, model: Tipo , będzie kosztował: 70000$Białe Audi, model: A4 , będzie kosztował: 15$Hotel Warsaw, Room Type: Single , Reservation Price 20zlHotel Lodz, Room Type: Family , Reservation Price 10zlHotel Warsaw, Room Type: Single , Reservation Price 20zlHotel Poznan, Room Type: Family , Reservation Price 10zl
